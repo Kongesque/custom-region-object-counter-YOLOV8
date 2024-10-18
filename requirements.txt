@@ -1,0 +1,7 @@
+flask
+flask-wtf
+opencv-python-headless
+numpy
+ultralytics
+supervision
+werkzeug
