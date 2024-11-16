@@ -6,7 +6,9 @@ For tracking, the ByteTrack algorithm ensures accurate identification of individ
 
 ![Demo](demo/demo.gif)
 
-*Example Use Case: Detecting and counting cattle within a designated area in farm surveillance videos.*
+**Example Use Case:**  
+Detecting and counting cattle within a designated area in farm surveillance videos.
+
 ### Step 1: Clone the Repository
 Start by cloning the repository to your local machine.
 
