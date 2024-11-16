@@ -4,6 +4,9 @@ This web application uses Python, Flask, and the YOLOv8 model to accurately dete
 
 For tracking, the ByteTrack algorithm ensures accurate identification of individual objects as they move through the specified region. The user-friendly web interface enables video uploads, ROI selection, and real-time tracking and counting of objects.
 
+![Demo](demo/demo.gif)
+
+*Example Use Case: Detecting and counting cattle within a designated area in farm surveillance videos.*
 ### Step 1: Clone the Repository
 Start by cloning the repository to your local machine.
 
