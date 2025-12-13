@@ -1,4 +1,9 @@
-# Custom Region Object Counter - YOLOv8
+# ⚠️ ARCHIVED ⚠️
+
+> **This project has been superseded by [ZoneNet](https://github.com/Kongesque/zonenet).**
+> The code in this repository is legacy. Please refer to the new project for the latest updates.
+
+# Custom Region Object Counter 🐮- YOLOv8
 
 This web application uses Python, Flask, and the YOLOv8 model to accurately detect and count objects in video data. The YOLOv8 model, pre-trained on the COCO dataset, identifies objects in the input video. A custom region of interest (ROI) function allows users to define areas for precise counting.
 
