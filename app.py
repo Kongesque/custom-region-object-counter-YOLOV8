@@ -10,7 +10,7 @@ import uuid
 from detector import detection
 
 app = Flask(__name__)  
-app.config['SECRET_KEY'] = 'kongesque'  # WEAKNESS: Hardcoded key. Use env var in production.
+app.config['SECRET_KEY'] = 'kongesque'  # NOTE: Hardcoded key is unsafe. Use os.environ.get('SECRET_KEY') in production.
 app.config['UPLOAD_FOLDER'] = 'static/files/input'  
 os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 
